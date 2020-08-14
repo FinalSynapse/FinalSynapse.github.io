@@ -30,7 +30,7 @@
               {% if site.author.twitch_username %}
                 <!-- Twitch -->
                 <li class="navigation__item">
-                  <a href="http://twitch.com/{{ site.author.twitch_username }}" title="@{{ site.author.twitch_username }} on Twitch" target="_blank">
+                  <a href="http://twitch.com/{{ site.author.twitch_username }}" title="{{ site.author.twitch_username }} on Twitch" target="_blank">
                     <i class="icon icon-social-twitch"></i>
                     <span class="label">Twitch</span>
                   </a>
@@ -43,6 +43,16 @@
                   <a href="http://instagram.com/{{ site.author.instagram_username }}" title="@{{ site.author.instagram_username }} on Instagram" target="_blank">
                     <i class="icon icon-social-instagram"></i>
                     <span class="label">Instagram</span>
+                  </a>
+                </li>
+              {% endif %}
+
+              {% if site.author.youtube_username %}
+                <!-- YouTube -->
+                <li class="navigation__item">
+                  <a href="http://youtube.com/channel/{{ site.author.youtube_username }}" title="{{ site.author.youtube_username }} on YouTube" target="_blank">
+                    <i class="icon icon-social-youtube"></i>
+                    <span class="label">YouTube</span>
                   </a>
                 </li>
               {% endif %}
