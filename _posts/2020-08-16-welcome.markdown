@@ -1,0 +1,10 @@
+---
+title:  "Welcome to my blog!"
+date:   2020-08-14 18:00:00 +0930
+tags: [blog]
+---
+Welcome to the newly redesigned blog! Still working on it so if you see changes this is expected. I will republish the Hack The Box writes ups I have and new ones as boxes are retired. I will also try to add some gaming and streaming stuff here as time goes on.
+
+I will add more random blog posts here as well. I tend to be pretty political and I want to move that stuff away from Twitter to here. Twitter will be used more for updates on when I'm streaming or when there is new content here.
+
+Watch this space as the new site grows!!
