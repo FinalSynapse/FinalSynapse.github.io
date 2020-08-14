@@ -1,10 +1,9 @@
 ---
-layout: post
 title:  "HTB Querier"
-date:  2020-08-14 21:00:00 +0930
-tags: [HTB][Write-Up]
+date:   2020-08-14 22:15:00 +0930
+tags: [HTB]
 ---
-Old Hack The Back write up.
+This is an old write up for HTB Querier. I did loose some note so it's not complete. Something I'll come back to. This should get you started and it's really not hard to get that last step. Enjoy :)
 
 ![](https://raw.githubusercontent.com/FinalSynapse/FinalSynapse.github.io/master/images/HTB_Querier/Querier.PNG)
 
