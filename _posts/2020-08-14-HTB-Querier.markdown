@@ -5,11 +5,9 @@ tags: [HTB]
 ---
 This is an old write up for HTB Querier. I did loose some note so it's not complete. Something I'll come back to. This should get you started and it's really not hard to get that last step. Enjoy :)
 
-![](https://raw.githubusercontent.com/FinalSynapse/FinalSynapse.github.io/master/images/HTB_Querier/Querier.PNG)
-
-
-
 ***
+
+![](https://raw.githubusercontent.com/FinalSynapse/FinalSynapse.github.io/master/images/HTB_Querier/Querier.PNG)
 
 ## Enumeration
 
