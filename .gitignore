@@ -5,3 +5,4 @@ _drafts
 *.sublime-project
 *.sublime-workspace
 .DS_Store
+images/HTB_Remote
