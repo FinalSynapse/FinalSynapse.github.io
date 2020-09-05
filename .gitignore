@@ -5,5 +5,5 @@ _drafts
 *.sublime-project
 *.sublime-workspace
 .DS_Store
-images/HTB_Remote
+images/HTB_Buff
 images/HTB_Admirer
